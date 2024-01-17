@@ -31,3 +31,8 @@ img {
 footer {
   text-align: center;
 }
+@media(max-width: 768px){
+  section{
+    width: 350px;
+  }
+}
